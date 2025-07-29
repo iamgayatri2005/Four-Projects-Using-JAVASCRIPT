@@ -18,8 +18,8 @@ span {
   display: inline-block;
 }
 
-#blue {
-  background: blue;
+#yellow {
+  background: yellow;
 }
 
 #green {
@@ -28,6 +28,6 @@ span {
 #orange {
   background: orange;
 }
-#red {
-  background: red;
+#pink {
+  background: pink;
 }
